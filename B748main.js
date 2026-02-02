@@ -19,7 +19,7 @@
             texture: "" // 元に戻す用のURL（空なら何もしない）
         },
         off: {
-            model: "https://OC135.github.io/test6/RB21138.glb",
+            model: "https://OC135.github.io/test6/RB21139.glb",
             texture: "" // 元に戻す用のURL（空なら何もしない）
         }
     };
